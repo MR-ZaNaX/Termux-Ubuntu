@@ -14,7 +14,7 @@ $ apt-get install git -y  (Git paketini yükle)
 
 $ cd ~  (HOME klasörüne git)
 
-$ git clone https://github.com/MR-ZaNaX/Termux-Ubuntu  (Aracı indir)
+$ git clone https://github.com/NE0WISE/Termux-Ubuntu  (Aracı indir)
 
 $ cd Termux-Ubuntu  (Komut dosyası klasörüne git)
 
@@ -24,4 +24,4 @@ $ ./ubuntu.sh -y  (Komut dosyasını çalıştın)
 
 $ ./startubuntu.sh 
 
-Tamamdır gerisi size kalmış.   " BY MR.ZANAX
+Tamamdır gerisi size kalmış.   "  MR.NEOWISE
