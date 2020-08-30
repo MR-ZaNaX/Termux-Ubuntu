@@ -14,3 +14,5 @@
 * `$ ./startubuntu.sh`
 
 Tamamdır gerisi size kalmış.   * `MR.NEOWISE`
+
+## ❤️ DESTEK İÇİN (BTC) : 15VkfWnihwSKgKB1cHW2pXUxvk5r5HN8Yc
