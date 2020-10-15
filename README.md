@@ -13,6 +13,6 @@
 * `$ ./ubuntu.sh -y  (Komut dosyasını çalıştın)`
 * `$ ./startubuntu.sh`
 
-Tamamdır gerisi size kalmış.   * `MR.NEOWISE`
+* `MR.NEOWISE`
 
-## ❤️ DESTEK İÇİN (BTC) : 15VkfWnihwSKgKB1cHW2pXUxvk5r5HN8Yc
+## ❤️ (BTC) : 15VkfWnihwSKgKB1cHW2pXUxvk5r5HN8Yc
